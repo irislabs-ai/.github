@@ -4,7 +4,6 @@ This is PodRealms. Create Your Kingdoms, Either Isolated or with People.
 
 ## Commands
 
-
 ## Links
 
 - [Homepage](https://podrealms.com): The Homepage of PodRealms
@@ -13,6 +12,5 @@ This is PodRealms. Create Your Kingdoms, Either Isolated or with People.
 <!-- - [X](https://x.com/podrealms): X of PodRealms -->
 
 ## Notes
-
 
 ## Ending Notes
