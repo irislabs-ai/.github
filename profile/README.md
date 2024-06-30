@@ -1,6 +1,6 @@
 Welcome to the GitHub organization page for I.R.I.S. Labs!
 
-# 🌌 Intelligent Reasoning and Inference Systems 🌌
+# 🌌 I.R.I.S. Labs 🌌
 
 Our mission at I.R.I.S. Labs is to democratize AI technology, integrating
 the complexities of artificial intelligence with the elegance and
