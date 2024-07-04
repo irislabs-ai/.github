@@ -14,7 +14,7 @@ Our GitHub repositories reflect our dedication to advancing AI technology throug
 
 Become part of a community that is passionate about pushing the boundaries of what's possible with AI. Contribute to our projects, or start using them in your work to see how I.R.I.S. Labs can transform your business or research.
 
-## 🌐 Our Core Values:
+## 🌐 Our Core Values
 
 - Innovation: Pioneering new frontiers in AI.
 - Accessibility: Making AI easy and accessible to all.
@@ -22,13 +22,13 @@ Become part of a community that is passionate about pushing the boundaries of wh
 - Precision: Detail-oriented in every solution.
 - Interconnectedness: Bridging distinct technologies and disciplines.
 
-## 🔭 Community and Contributions:
+## 🔭 Community and Contributions
 
 - Tutorials and Guides: Educational resources that make AI accessible to everyone.
 - Open Discussions: Engage with our developers and contributors through Issues and Discussions.
 - Events: Join us at the annual "Cosmic AI" conference.
 
-### 💡 Contribute:
+### 💡 Contribute
 
 Ready to embark on a cosmic AI journey? Whether you're a coder, a visionary, or someone passionate about AI, there's space for you here at I.R.I.S. Labs.
 Contribute to existing projects, suggest new ideas, or provide feedback.
